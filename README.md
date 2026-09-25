@@ -1,68 +1,6 @@
 # Curso-para-crian-a-de-sites
 Curso completo para aprender a criar sites
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Módulo 1 - Criando seu primeiro site</title>
-
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #0f172a;
-            color: white;
-            margin: 0;
-            padding: 20px;
-        }
-
-        .container {
-            max-width: 800px;
-            margin: auto;
-        }
-
-        h1 {
-            color: #38bdf8;
-        }
-
-        h2 {
-            color: #22c55e;
-            margin-top: 30px;
-        }
-
-        .aula {
-            background: #1e293b;
-            padding: 20px;
-            margin-top: 20px;
-            border-radius: 12px;
-        }
-
-        .exemplo {
-            background: #020617;
-            padding: 15px;
-            border-radius: 8px;
-            margin-top: 10px;
-        }
-
-        code {
-            color: #facc15;
-        }
-
-        .atividade {
-            background: #312e81;
-            padding: 20px;
-            border-radius: 12px;
-            margin-top: 25px;
-        }
-    </style>
-</head>
-
-<body>
-
-<div class="container">
-
-    <h1>Módulo 1 — Primeiros passos para criar sites</h1>
-
+<
     <div class="aula">
         <h2>📚 Aula 1 — O que é um site?</h2>
 
